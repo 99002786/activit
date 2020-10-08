@@ -6,4 +6,6 @@ int add(int, int);
 int sub(int, int);
 int mul(int, int);
 int Div(int, int);
+int factorial_func(int factin);
+int prime_func(int primein);
 #endif
